@@ -11,7 +11,7 @@ To explore how controller input works in WPILib, and to begin preparing for a po
 
 - Detects A, B, X, and Y button presses on an Xbox controller
 - Prints a message to the console like:  
-  `"A tuşuna basıldı"` (Turkish for "Button A was pressed")
+  "Button A was pressed"
 - Runs inside `teleopPeriodic()` method
 - Built using WPILib 2025 and the Command-based robot template
 
